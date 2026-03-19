@@ -1,0 +1,5 @@
+{
+  "deploy_id": "bot_builder_deploy_v1",
+  "version": "1.0",
+  "description": "Basic deployment pipeline for bot blueprints."
+}

@@ -1,0 +1,18 @@
+{
+  "pack_id": "content_creator_v1",
+  "pack_name": "Content Creator Pack",
+  "version": "1.0",
+  "description": "Generates full content systems: brand voice, posts, scripts, long-form content, email sequences, ads, and content calendars.",
+  "requirements": [],
+  "gap_connections": [
+    "content_creator_gaps"
+  ],
+  "core_functions": [
+    "generate_brand_voice",
+    "generate_content_pillars",
+    "generate_short_form_content",
+    "generate_long_form_content",
+    "generate_email_sequence",
+    "generate_content_calendar"
+  ]
+}

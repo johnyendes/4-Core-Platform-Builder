@@ -1,0 +1,5 @@
+{
+  "gap_id": "bot_builder_gaps",
+  "description": "Bridges bot core, intents, responses, actions, and flow into a unified bot blueprint.",
+  "version": "1.0"
+}

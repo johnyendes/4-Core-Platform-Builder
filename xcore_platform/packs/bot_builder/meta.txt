@@ -1,0 +1,19 @@
+Bot Builder Pack v1
+
+Purpose:
+  Generate complete AI bot blueprints including:
+  - Bot core definition
+  - Intents list
+  - Response mappings
+  - Bot actions/integrations
+  - Step-by-step conversation flow
+
+Usage:
+  1) generate_bot_core()
+  2) generate_bot_intents()
+  3) generate_bot_responses()
+  4) generate_bot_actions()
+  5) generate_bot_flow()
+  6) Pass all outputs to bot_builder_gaps.connect()
+
+The result is a complete bot architecture that can be converted into a chatbot, automation, workflow bot, or customer support agent.

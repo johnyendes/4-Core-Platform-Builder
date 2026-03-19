@@ -1,0 +1,16 @@
+{
+  "pack_directory": "packs/",
+  "pack_structure": {
+    "pack.json": "Pack metadata and configuration",
+    "functions.py": "Core pack functions",
+    "meta.txt": "Documentation and usage instructions"
+  },
+  "gap_pack_structure": {
+    "gap.json": "Gap bridge configuration",
+    "bridge.py": "Bridge logic implementation"
+  },
+  "deployment_structure": {
+    "deploy.json": "Deployment configuration",
+    "deploy.py": "Deployment logic implementation"
+  }
+}

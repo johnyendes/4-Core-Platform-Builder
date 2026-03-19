@@ -1,0 +1,19 @@
+Content Creator Pack v1
+
+Purpose:
+  Generate complete content systems:
+  - Brand voice creation
+  - Content pillars
+  - Short form (posts, tweets, captions)
+  - Long form (articles, scripts, blogs)
+  - Email sequences
+  - 7/30/60/90-day content calendars
+
+Usage:
+  1) generate_brand_voice()
+  2) generate_content_pillars()
+  3) generate_short_form_content()
+  4) generate_long_form_content()
+  5) generate_email_sequence()
+  6) generate_content_calendar()
+  7) Pass into content_creator_gaps bridge

@@ -1,0 +1,17 @@
+{
+  "pack_id": "web_builder_v1",
+  "pack_name": "Web Builder Pack",
+  "version": "1.0",
+  "description": "Generates complete website blueprints including pages, layout, components, navigation, SEO metadata, and content structure.",
+  "requirements": [],
+  "gap_connections": [
+    "web_builder_gaps"
+  ],
+  "core_functions": [
+    "generate_site_core",
+    "generate_site_pages",
+    "generate_site_layout",
+    "generate_site_navigation",
+    "generate_site_seo"
+  ]
+}

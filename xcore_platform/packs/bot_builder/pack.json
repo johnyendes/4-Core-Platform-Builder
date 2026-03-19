@@ -1,0 +1,17 @@
+{
+  "pack_id": "bot_builder_v1",
+  "pack_name": "Bot Builder Pack",
+  "version": "1.0",
+  "description": "Generates AI bot blueprints including intents, responses, conversation flows, triggers, integrations, and actions.",
+  "requirements": [],
+  "gap_connections": [
+    "bot_builder_gaps"
+  ],
+  "core_functions": [
+    "generate_bot_core",
+    "generate_bot_intents",
+    "generate_bot_responses",
+    "generate_bot_actions",
+    "generate_bot_flow"
+  ]
+}

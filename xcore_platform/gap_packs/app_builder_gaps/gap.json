@@ -1,0 +1,5 @@
+{
+  "gap_id": "app_builder_gaps",
+  "description": "Bridges the App Builder core, screens, navigation, database schema, and API endpoints into a single unified app blueprint.",
+  "version": "1.0"
+}

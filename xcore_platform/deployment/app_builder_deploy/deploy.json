@@ -1,0 +1,5 @@
+{
+  "deploy_id": "app_builder_deploy_v1",
+  "version": "1.0",
+  "description": "Basic deployment pipeline for App Builder blueprints."
+}

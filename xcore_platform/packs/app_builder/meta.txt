@@ -1,0 +1,19 @@
+App Builder Pack v1
+
+Purpose:
+  Generate a complete app blueprint including:
+  - Core idea (name, purpose, audience, summary)
+  - Screen list and descriptions
+  - Navigation flow between screens
+  - Database tables and fields
+  - API endpoint definitions
+
+Usage:
+  1) Call generate_app_core()
+  2) Call generate_app_screens()
+  3) Call generate_app_navigation_flow()
+  4) Call generate_app_database_schema()
+  5) Call generate_app_api_endpoints()
+  6) Pass all outputs to app_builder_gaps.connect()
+
+This pack produces a full App Blueprint ready for deployment.

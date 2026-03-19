@@ -1,0 +1,19 @@
+Web Builder Pack v1
+
+Purpose:
+  Generate a complete website blueprint including:
+  - Core site information (name, purpose, audience, summary)
+  - Page list and descriptions
+  - Layout structure and design type
+  - Navigation menu items and URLs
+  - SEO metadata and keywords
+
+Usage:
+  1) Call generate_site_core()
+  2) Call generate_site_pages()
+  3) Call generate_site_layout()
+  4) Call generate_site_navigation()
+  5) Call generate_site_seo()
+  6) Pass all outputs to web_builder_gaps.connect()
+
+This pack produces a full Website Blueprint ready for deployment.

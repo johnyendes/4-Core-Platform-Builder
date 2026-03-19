@@ -1,0 +1,5 @@
+{
+  "deploy_id": "content_creator_deploy_v1",
+  "version": "1.0",
+  "description": "Deployment pipeline for exporting unified content systems."
+}
